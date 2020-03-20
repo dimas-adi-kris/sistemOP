@@ -1,0 +1,2 @@
+# sistemOP
+linux ubuntu debian
